@@ -1,0 +1,13 @@
+.container{
+  max-width: 1220px;
+  padding: 0 10px;
+  margin: auto;
+}
+
+.btn{
+  display: inline-block;
+  padding: 5px 10px;
+  border: 2px solid rgb(85, 71, 140);
+  border-radius: 10px;
+  background-color: rgb(211, 193, 231);
+}
