@@ -1,0 +1,19 @@
+{
+  "name": "js-modal",
+  "version": "1.0.0",
+  "description": "javascript application",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 4200 --open",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "author": "Diana Dvoryak",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  },
+  "dependencies": {
+    "@eastdesire/jscolor": "^2.5.1",
+    "firebase-tools": "^11.17.0"
+  }
+}
